@@ -1,0 +1,13 @@
+../Src/main.c:119:5:main	8	static
+../Src/main.c:229:6:SystemClock_Config	72	static
+../Src/main.c:267:6:LED_On	8	static
+../Src/main.c:276:6:LED_Off	8	static
+../Src/main.c:285:10:Flash_ReadBlinkCount	4	static
+../Src/main.c:290:6:Flash_WriteBlinkCount	48	static
+../Src/main.c:311:9:Button_IsPressed	8	static
+../Src/main.c:321:9:Button_HeldForMs	24	static
+../Src/main.c:336:6:Button_InitDebounceState	16	static
+../Src/main.c:347:6:Button_Process	16	static
+../Src/main.c:383:6:BlinkCount_Increase	8	static
+../Src/main.c:400:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Src/main.c:455:6:Error_Handler	4	static,ignoring_inline_asm
